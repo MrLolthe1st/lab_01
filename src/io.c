@@ -1,4 +1,4 @@
 #include "io.h"
-void logDebug(char x) {
+void logDebug1(char x) {
 	printf("%c", x);
 }
